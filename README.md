@@ -45,7 +45,7 @@ medallion architecture · Airflow · PostgreSQL · OpenSearch
 ```
 .
 ├── report/     # IEEE-format design report (cover sheet & internal identifiers removed)
-├── images/     # architecture diagram
+├── architecture diagram/     
 └── README.md
 ```
 
